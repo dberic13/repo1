@@ -9,3 +9,5 @@ console.log("hvala")
 console.log(2+2+2+2+2+2)
 
 console.log("ajmoooooooooooo")
+
+//Ovo je izrađeno iz kloniranog repozitorija
