@@ -7,3 +7,5 @@ console.log(2+2)
 console.log("hvala")
 
 console.log(2+2+2+2+2+2)
+
+console.log("ajmoooooooooooo")
