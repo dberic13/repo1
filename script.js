@@ -13,3 +13,5 @@ console.log("ajmoooooooooooo")
 //Ovo je izrađeno iz kloniranog repozitorija
 
 //Ovo je izrađeno iz test branch
+
+//Ovo je izrađeno iz dev branch
